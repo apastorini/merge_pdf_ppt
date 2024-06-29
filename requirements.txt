@@ -1,0 +1,6 @@
+PyPDF2
+python-pptx
+pdf2image
+reportlab
+Pillow
+comtypes
